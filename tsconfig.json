@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "react-native-better-toast": ["./src/index"]
+      "@kevtucker/react-native-better-toast": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

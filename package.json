@@ -1,5 +1,5 @@
 {
-  "name": "react-native-better-toast",
+  "name": "@kevtucker/react-native-better-toast",
   "version": "0.1.0",
   "description": " ls -1",
   "main": "./lib/module/index.js",
@@ -35,6 +35,8 @@
     "example": "yarn workspace react-native-better-toast-example",
     "clean": "del-cli lib",
     "prepare": "bob build",
+    "yalc:publish": "yarn prepare && yalc publish",
+    "yalc:push": "yarn prepare && yalc publish --push",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\""
   },
@@ -60,6 +62,7 @@
     "@eslint/compat": "^2.0.3",
     "@eslint/eslintrc": "^3.3.5",
     "@eslint/js": "^10.0.1",
+    "@expo/vector-icons": "^14.1.0",
     "@react-native/babel-preset": "0.83.0",
     "@react-native/eslint-config": "0.83.0",
     "@types/react": "^19.2.0",
@@ -76,6 +79,7 @@
     "typescript": "^6.0.2"
   },
   "peerDependencies": {
+    "@expo/vector-icons": "*",
     "react": "*",
     "react-native": "*"
   },
