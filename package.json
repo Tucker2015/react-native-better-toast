@@ -1,7 +1,7 @@
 {
   "name": "@kevtucker/react-native-better-toast",
   "version": "0.1.0",
-  "description": " ls -1",
+  "description": "A lightweight global toast component for React Native and Expo with variants, optional icons, and optional enter/exit animations.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
