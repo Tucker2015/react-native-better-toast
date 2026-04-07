@@ -1,5 +1,10 @@
 # @kevtucker/react-native-better-toast
 
+[![npm version](https://img.shields.io/npm/v/@kevtucker/react-native-better-toast.svg?style=flat)](https://www.npmjs.com/package/@kevtucker/react-native-better-toast)
+[![npm downloads](https://img.shields.io/npm/dm/@kevtucker/react-native-better-toast.svg?style=flat)](https://www.npmjs.com/package/@kevtucker/react-native-better-toast)
+[![GitHub license](https://img.shields.io/github/license/Tucker2015/react-native-better-toast.svg)](https://github.com/Tucker2015/react-native-better-toast/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Tucker2015/react-native-better-toast.svg)](https://github.com/Tucker2015/react-native-better-toast/issues)
+
 A lightweight global toast component for React Native and Expo with variants, optional icons, and optional enter/exit animations.
 
 ## Installation
